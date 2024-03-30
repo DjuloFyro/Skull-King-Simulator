@@ -14,7 +14,7 @@ class Deck:
             self.cards.append(Card(CardType.FUITE)) # Add 5 fuites
         for _ in range(2):
             self.cards.append(Card(CardType.PIECE)) # Add 2 pieces
-        self.cards.append(Card(CardType.SKULL)) # Add 1 skull
+        self.cards.append(Card(CardType.SKULLKING)) # Add 1 skull
         self.cards.append(Card(CardType.KRAKEN)) # Add 1 kraken
         self.cards.append(Card(CardType.BALEINE)) # Add 1 baleine
         self.cards.append(Card(CardType.POISSON)) # Add 1 poisson

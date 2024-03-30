@@ -12,7 +12,7 @@ class CardType(Enum):
     BASIC = 1
     PIRATE = 2
     SIRENE = 3
-    SKULL = 4
+    SKULLKING = 4
     FUITE = 5
     PIECE = 6
     KRAKEN = 7

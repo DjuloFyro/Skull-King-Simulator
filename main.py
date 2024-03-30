@@ -10,13 +10,12 @@ def main():
     
     # Initialize game
     game = Game(players)
+
     
-    # Deal cards
-    game.deal_cards(1, verbose=True)
+    game.play_game()
     
-    # Play rounds (example: 5 rounds)
-    for _ in range(1):
-        game.play_turn()
 
 if __name__ == "__main__":
     main()
+    #l = [Card(CardType.BASIC, CardColor.BLUE, 1), Card(CardType.BASIC, CardColor.BLACK, 2), Card(CardType.KRAKEN)]
+    #print(Card(CardType.Black) in l)
