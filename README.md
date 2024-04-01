@@ -1,6 +1,6 @@
-# Skull-King-Simulator ou Pourquoi le petit poisson c'est de la merde ou encore Pourquoi les game designers existent (ou encore comment avoir tort en 5 min (spoiler, j'ai tort))
+# Skull-King-Simulator ou Pourquoi le petit poisson c'est nul ou encore Pourquoi les game designers existent
 
-L'objectif de ce repo est de montrer que le petit poisson détruit tellement le jeu du Skull King, que le fait de dire un nombre aléatoire de plis revient au même que de jouer "intelligemment" si cette carte se retrouve dans le Deck. Plus particulièrement, il empêche d'avoir une stratégie cohérente quand il s'agit de prédire les plis.
+L'objectif de ce repo est de montrer que le petit poisson détruit tellement le jeu du Skull King, que le fait de dire un nombre aléatoire de plis revient au même que de jouer "intelligemment" si cette carte se retrouve dans le Deck. Plus particulièrement, il empêche d'avoir une stratégie cohérente quand il s'agit de prédire les plis. (spoiler j'ai tort)
 
 ## Joueurs :
 
