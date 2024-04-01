@@ -32,6 +32,7 @@ class CardColor(Enum):
     GREEN = 2
     YELLOW = 3
     BLACK = 4
+    NOCOLOR = 5
 
     def __str__(self):
         return self.name
