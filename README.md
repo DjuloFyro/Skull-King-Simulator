@@ -14,9 +14,18 @@ Un RandomTrickPlayer est un joueur qui va chercher à gagner le pli quand il doi
 
 ## Résultats obtenus
 
-On simule 1000 parties à 8 joueurs et 8 rounds par parties avec et sans le petit poisson.
+On simule 1000 parties à 8 joueurs et 8 rounds par parties avec et sans le petit poisson. Alice, Bob, Charlie et Sara sont des SmartPlayer, les autres sont des RandomTrickPlayer
 
 Sans le Petit Poisson:
 
+<img src="images/comparaison_without_poisson.png" alt="Logo" widht="500" height="400">
+
 
 Avec le Petit Poisson:
+
+<img src="images/comparaison_with_poisson.png" alt="Logo" widht="500" height="400">
+
+Peut etre petit poisson meilleur carte du jeu 🤔
+
+
+
