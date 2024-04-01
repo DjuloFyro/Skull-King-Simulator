@@ -25,6 +25,18 @@ Avec le Petit Poisson:
 
 <img src="images/comparaison_with_poisson.png" alt="Logo" widht="500" height="400">
 
+Maintenant on fait la meme simulation mais qu'avec des smarts players
+
+Sans le Petit Poisson:
+
+<img src="images/all_smart.png" alt="Logo" widht="500" height="400">
+
+Avec le Petit Poisson
+
+<img src="images/all_smart_poisson.png" alt="Logo" widht="500" height="400">
+
+
+
 Peut etre petit poisson meilleur carte du jeu 🤔
 
 
