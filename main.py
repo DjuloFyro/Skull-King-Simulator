@@ -1,21 +1,21 @@
-from card_type import CardType, CardColor
-from card  import Card
-from player import Player
-from game import Game
+from src.card_type import CardType, CardColor
+from src.card  import Card
+from src.player import Player, SmartPlayer
+from src.game import Game
+from src.stats_on_game import play_multiple_game
 
+import pandas as pd
 
 def main():
     # Create players
-    players = [Player("Player 1"), Player("Player 2")]
+    players = [Player("Alice"), Player("Bob"), SmartPlayer("Charlie"), Player("David"), SmartPlayer("Eve"), Player("Frank")]
     
     # Initialize game
     game = Game(players)
+    game.play_game(verbose=True)
 
-    
-    game.play_game()
-    
+    # Get the names of the players
+    print(game.players_points)
 
 if __name__ == "__main__":
     main()
-    #l = [Card(CardType.BASIC, CardColor.BLUE, 1), Card(CardType.BASIC, CardColor.BLACK, 2), Card(CardType.KRAKEN)]
-    #print(Card(CardType.Black) in l)
